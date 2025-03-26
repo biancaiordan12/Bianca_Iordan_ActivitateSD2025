@@ -1,0 +1,6 @@
+1,4,25000.5,Volkswagen Golf,Sofer1,A
+2,2,32000.0,BMW Z4,Sofer2,B
+3,4,28000.75,Renault Megane,Sofer1,A
+4,5,45000.9,Audi Q5,Sofer3,C
+5,3,15000.0,Ford Focus,Sofer2,B
+6,2,50000.25,Mercedes AMG,Sofer4,D
