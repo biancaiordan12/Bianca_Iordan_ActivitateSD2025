@@ -1,0 +1,4 @@
+1,4,35000.5,BMW,Popescu Marius,S
+2,2,12000.0,Fiat,Ionescu Maria,T
+3,4,50000.0,Audi,Popa Andrei,R
+4,5,75000.0,Mercedes,Stefan Elena,Q
